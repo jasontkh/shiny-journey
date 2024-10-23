@@ -14,7 +14,7 @@ hello world
 
 Mr.Sheep is not a sheep
 
-Mr.Sheep is not a sheep
+Mr.Sheep is actually a pig
 
 function Sleep(){
     bed.Lay();
